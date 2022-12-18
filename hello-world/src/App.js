@@ -18,7 +18,7 @@ const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 
 
-function ResponsiveAppBar() {
+function App() {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
   const [anchorElUser, setAnchorElUser] = React.useState(null);
 
@@ -162,4 +162,4 @@ function ResponsiveAppBar() {
   );
 }
 
-export default ResponsiveAppBar;
+export default App;
