@@ -57,7 +57,7 @@ function App() {
               textDecoration: 'none',
             }}
           >
-            LOGO
+            LOGO More txt 
           </Typography>
             h5 dafadff
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
